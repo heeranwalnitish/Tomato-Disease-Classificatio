@@ -20,4 +20,19 @@ The dataset contains 10 classes:
   - Tomato Mosaic virus
   - Tomato Healthy
  
- #### Dataset credits :(https://www.kaggle.com/arjuntejaswi/plant-village)
+ #### Dataset credits : https://www.kaggle.com/arjuntejaswi/plant-village
+
+
+### Libraries
+- numpy
+- pandas 
+- scipy
+- matplotlib
+- tensorflow
+- keras
+- splitfolders
+
+### Neural Network
+ CONVOLUTIONAL NEURAL NETWORK
+ 
+ Accuracy : 91.30
